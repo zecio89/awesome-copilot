@@ -82,14 +82,8 @@ Model Context Protocol servers that extend Copilot's capabilities.
 
 ## 🗒️ My Notes
 
-Personal notes as I work through this material:
+<!-- Personal notes on things I've learned or want to revisit -->
 
-- The `.github/copilot-instructions.md` file applies repo-wide — good for setting tone/language preferences
-- Prompt files (`.prompt.md`) are great for repetitive tasks like writing tests or generating changelogs
-- Still need to explore MCP servers more — looks powerful but docs are sparse
-
----
-
-## 🤝 Contributing
-
-Contributions are 
+- Custom instructions in `.github/copilot-instructions.md` apply repo-wide — great for enforcing consistent style without repeating yourself in every prompt.
+- Prompt files (`.prompt.md`) are super handy for repetitive tasks like writing tests or generating changelogs.
+- TODO: experiment with chaining multiple agent workflows together for a full PR review pipeline.
