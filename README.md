@@ -20,6 +20,7 @@ A community-driven collection of GitHub Copilot resources including custom instr
 - [VS Code Extensions](#-vs-code-extensions)
 - [MCP Servers](#-mcp-servers)
 - [Tutorials & Articles](#-tutorials--articles)
+- [My Notes](#-my-notes)
 - [Contributing](#-contributing)
 - [Contributors](#-contributors)
 
@@ -79,9 +80,16 @@ Model Context Protocol servers that extend Copilot's capabilities.
 
 ---
 
+## 🗒️ My Notes
+
+Personal notes as I work through this material:
+
+- The `.github/copilot-instructions.md` file applies repo-wide — good for setting tone/language preferences
+- Prompt files (`.prompt.md`) are great for repetitive tasks like writing tests or generating changelogs
+- Still need to explore MCP servers more — looks powerful but docs are sparse
+
+---
+
 ## 🤝 Contributing
 
-Contributions are welcome! Please read the [Contributing Guide](.github/CONTRIBUTING.md) before submitting a pull request.
-
-1. Fork this repository
-2. Add your resource following the f
+Contributions are 
