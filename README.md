@@ -8,6 +8,8 @@
 
 A community-driven collection of GitHub Copilot resources including custom instructions, prompt files, agent workflows, and VS Code extensions to supercharge your AI-assisted development experience.
 
+> **Personal fork note:** I'm using this as a reference while learning Copilot customization. Entries marked with ⭐ are ones I've personally tried and found useful.
+
 ---
 
 ## 📖 Contents
@@ -82,24 +84,4 @@ Model Context Protocol servers that extend Copilot's capabilities.
 Contributions are welcome! Please read the [Contributing Guide](.github/CONTRIBUTING.md) before submitting a pull request.
 
 1. Fork this repository
-2. Add your resource following the format in the relevant section
-3. Submit a pull request with a clear description of your addition
-
----
-
-## 👥 Contributors
-
-Thanks to all our wonderful contributors!
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
----
-
-<p align="center">
-  <sub>Inspired by <a href="https://github.com/sindresorhus/awesome">awesome</a> lists everywhere.</sub>
-</p>
+2. Add your resource following the f
