@@ -82,8 +82,8 @@ Model Context Protocol servers that extend Copilot's capabilities.
 
 ## 🗒️ My Notes
 
-<!-- Personal notes on things I've learned or want to revisit -->
+<!-- Personal notes on things I've tried or want to explore -->
 
-- Started exploring custom instructions first — biggest bang for the buck IMO
-- The `.github/copilot-instructions.md` file applies repo-wide, which is really handy
-- TODO: try out some MCP servers once I have a spare afternoon
+- Started exploring custom instructions for Go projects — the key is keeping them concise and focused on one concern per instruction file.
+- TODO: try out the agentic workflow for code review automation
+- The MCP servers section looks promising; want to experiment with the filesystem and GitHub MCP servers together.
