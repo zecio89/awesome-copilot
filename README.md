@@ -82,8 +82,8 @@ Model Context Protocol servers that extend Copilot's capabilities.
 
 ## 🗒️ My Notes
 
-<!-- Personal notes on things I've tried, what worked, what didn't, etc. -->
+<!-- Personal notes on things I've learned or want to revisit -->
 
 - Started exploring custom instructions for Go projects — scoping instructions to a specific language makes a big difference.
-- The `.prompt.md` files work really well for repetitive tasks like writing test stubs.
-- TODO: try chaining agent workflows for a full PR review pipeline.
+- The `.prompt.md` format is really handy for repetitive tasks like writing tests or generating boilerplate.
+- TODO: try out some MCP servers once I have a spare weekend.
