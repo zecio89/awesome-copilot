@@ -77,6 +77,7 @@ Model Context Protocol servers that extend Copilot's capabilities.
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot) — Official GitHub Copilot docs
 - [Customizing GitHub Copilot](https://docs.github.com/en/copilot/customizing-copilot) — Guide to custom instructions and prompt files
 - [GitHub Copilot for VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) — VS Code marketplace listing
+- [Prompting GitHub Copilot Chat to become your personal AI assistant](https://github.blog/developer-skills/github/prompting-github-copilot-chat-to-become-your-personal-ai-assistant/) — Great intro blog post on prompt engineering for Copilot
 
 ---
 
@@ -84,6 +85,6 @@ Model Context Protocol servers that extend Copilot's capabilities.
 
 <!-- Personal notes on things I've learned or want to revisit -->
 
-- Started exploring custom instructions for Go projects — scoping instructions to a specific language makes a big difference.
-- The `.prompt.md` format is really handy for repetitive tasks like writing tests or generating boilerplate.
-- TODO: try out some MCP servers once I have a spare weekend.
+- Custom instructions in `.github/copilot-instructions.md` apply repo-wide — super useful for enforcing consistent style without repeating yourself in every prompt.
+- Prompt files (`.prompt.md`) are great for repetitive tasks like writing tests or generating changelog entries.
+- TODO: experiment with MCP servers for connecting Copilot to local tools.
